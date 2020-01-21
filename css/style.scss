@@ -1,0 +1,572 @@
+#header{
+    background: black;
+    padding: 15px 0;
+    .text{
+        margin-top: -30px;
+        color: white;
+        h6{
+            margin-top: 3px;
+            margin-left: 40px;
+        }
+        margin-left: 140vh;
+        display: flex;
+        
+    }
+}
+#menu1{
+    .icon{
+       i{
+           margin: 0px 10px;
+       } 
+    
+        margin-left: 185vh;
+        font-size: 17px;
+    margin-top: -42px;
+
+    }
+margin: 15px;
+.menu{
+    
+    .menu2{
+       
+        li{
+            &:hover{
+                color: red;
+                transition: .3s;
+                border-block-end: 1px solid red;
+                
+            }
+
+        
+        margin: 0px 12px;
+        }
+
+    }
+    
+}
+    
+font-size: 23px;
+}
+
+#section2{
+    .foto{
+        
+        img{
+            height: 70.4vh;
+            
+        }
+    }
+    .foto1{
+        img{
+            position: absolute;
+            margin-top: -65vh;
+            height: 55vh;
+            margin-left: 145vh;
+        }
+    }
+    .text2{
+        button{
+            margin-top: 5px;
+            height: 7vh;
+            width: 30vh;
+            color: white;
+            background: transparent;
+        
+            &:hover{
+                background: yellowgreen;
+
+                transition: .9s;
+            }
+        }
+        h6{
+            font-size: 20px;
+            width: 57vh;
+        }
+        h1{
+            width: 10vh;
+        }
+        margin-left: 10vh;
+        color: white;
+        margin-top: -55vh;
+    }
+    
+}
+#icons{
+margin-top: 5vh;
+    .icon{
+        
+        h6{
+            margin-top: 10px;
+        }
+        width: 25vh;
+        text-align: center;
+        background: #e5e5e5;
+        border: 1px solid #e5e5e5;
+            margin-top: 20vh;
+            padding: 25px;
+            
+    }
+    
+    
+}
+#icons1{
+    margin-top: -41.5vh;
+    margin-left: 45vh;
+
+    .icon9{
+        &:hover{
+          color: red;  
+          transition: .6s;
+        
+        }
+       
+        h6{
+            opacity: 0;
+            margin-top: 10px;
+            &:hover{
+                transition: .4s;
+                opacity: 9;
+                
+            }
+        }
+        width: 25vh;
+
+        text-align: center;
+        background: #e5e5e5;
+        border: 1px solid #e5e5e5;
+            margin-top: 20vh;
+            padding: 25px;
+            
+    }
+    
+    
+}
+
+#icons3{
+    
+    margin-top: -41vh;
+    margin-left: 74vh;
+
+    .icon9{
+        &:hover{
+          color: red;  
+          transition: .6s;
+        
+        }
+        h6{
+            opacity: 0;
+            margin-top: 10px;
+            &:hover{
+                transition: .4s;
+                opacity: 9;
+                
+            }
+        }
+        width: 25vh;
+
+        text-align: center;
+        background: #e5e5e5;
+        border: 1px solid #e5e5e5;
+            margin-top: 20vh;
+            padding: 25px;
+            
+    }
+    
+    
+}
+
+#icons6{
+    
+    margin-top: -41vh;
+    margin-left: 102vh;
+
+    .icon9{
+        &:hover{
+          color: red;  
+          transition: .6s;
+        
+        }
+        h6{
+            opacity: 0;
+            margin-top: 10px;
+            &:hover{
+                transition: .4s;
+                opacity: 9;
+                
+            }
+        }
+        width: 25vh;
+
+        text-align: center;
+        background: #e5e5e5;
+        border: 1px solid #e5e5e5;
+            margin-top: 20vh;
+            padding: 25px;
+            
+    }
+    
+    
+}
+
+#icons7{
+    
+    margin-top: -41vh;
+    margin-left: 130vh;
+
+    .icon9{
+        &:hover{
+          color: red;  
+          transition: .6s;
+        
+        }
+        h6{
+            opacity: 0;
+            margin-top: 10px;
+            &:hover{
+                transition: .4s;
+                opacity: 9;
+                
+            }
+        }
+        width: 25vh;
+
+        text-align: center;
+        background: #e5e5e5;
+        border: 1px solid #e5e5e5;
+            margin-top: 20vh;
+            padding: 25px;
+            
+    }
+    
+    
+}
+
+#icons8{
+    
+    margin-top: -41vh;
+    margin-left: 158vh;
+
+    .icon9{
+        &:hover{
+          color: red;  
+          transition: .6s;
+        
+        }
+        h6{
+            opacity: 0;
+            margin-top: 10px;
+            &:hover{
+                transition: .4s;
+                opacity: 9;
+                
+            }
+        }
+        width: 25vh;
+
+        text-align: center;
+        background: #e5e5e5;
+        border: 1px solid #e5e5e5;
+            margin-top: 20vh;
+            padding: 25px;
+            
+    }
+    
+    
+}
+
+#foto9{
+    .foto8{
+        img{
+            margin-top: 25vh;
+        }
+    }
+    .foto7{
+        
+        margin-top: -57vh;
+        margin-left: 85vh;
+    }
+    .foto6{
+        h6{
+            margin-left: 60px;
+        }
+        
+        p{
+            margin-left: 75px;
+        }
+        margin-left: 85vh;
+        margin-top: 50px;
+       
+        
+        
+    }
+    .iconn{
+        margin-top: -30vh;
+        margin-left: 86vh;
+        opacity: 0;
+        &:hover{
+            opacity: .9;
+        }
+                    i{
+                        width: 70vh;
+        
+                        
+        
+                    
+                    }
+                }
+                .foto99{
+                    p{
+                        margin-left: 12vh;
+                    }
+                    h6{
+                        margin-left: 9vh;
+                    }
+                    margin-left: 125vh;
+                    margin-top: -21.5vh;
+                }
+                .iconn1{
+                    margin-left: 125vh;
+                    margin-top: -30vh;
+                    i{
+                        width: 80vh;
+                    }
+                }
+                .foto98{
+                    p{
+                        margin-left: 9vh;
+                    }
+                    h6{
+                        margin-left: 6vh;
+                    }
+                   
+                    margin-left: 160vh;
+                    margin-top: -22vh;
+                }
+                .iconn3{
+                    margin-top: -29vh;
+
+                    i{
+                        width: 70vh;
+                    }
+                    margin-left: 162vh;
+                                        }
+}
+
+#black{
+    margin-top: 45vh;
+    background: silver;
+        height: 80vh;
+        width: 204.9vh;
+        position: absolute;
+
+    .black1{
+        
+        h1{
+        margin-left: 60vh;
+        margin-top: 5vh;
+        
+        }
+        
+    }
+    .img2{
+        
+        margin-top: 10vh;
+        img{
+            margin: 1px 10px;
+        }
+    }
+    
+        .text99{
+            margin-left: 165vh;
+        }
+        .text0{
+            margin-left: 162vh;
+            margin-top: -10vh;
+        }
+        .text1{
+            margin-left: 133vh;
+        }
+        .text2{
+            margin-left: 130vh;
+            margin-top: -10vh;
+        }
+        .text3{
+            margin-left: 99vh;
+        }
+        .text4{
+            margin-left: 95vh;
+            margin-top: -10vh;
+        }
+        .text5{
+            margin-left: 63vh;
+        }
+        .text6{
+            margin-left: 60vh;
+            margin-top: -10vh;
+        }
+        .text7{
+            margin-left: 30vh;
+        }
+        .text8{
+            
+            margin-top: 10px;
+            margin-left: 27vh;
+        }
+    }
+    .icons99{
+        
+        margin-top: -40vh;
+            margin-left: 18.5vh;
+            
+        
+    }
+    .icons98{
+        margin-left: 53vh;
+        margin-top: -10vh;
+    }
+    .icons97{
+        margin-left: 87.5vh;
+        margin-top: -11vh;
+    }
+    .icons96{
+        margin-left: 121vh;
+        margin-top: -10vh;
+    }
+    .icons95{
+        margin-left: 156vh;
+        margin-top: -10vh;
+    }
+
+    #foto99{
+        .foto97{
+           
+            img{
+                
+                margin: 1px 15px;
+                height: 200px;
+                margin-top: 150vh;
+            }
+        }
+        .foto98{
+            h3{
+                position: absolute;
+                margin-top: 140vh;
+                margin-left: 70vh;
+            }
+        }
+        .tex5{
+            h6{
+                &:hover{
+color: red;
+                }
+            }
+            span{
+                margin-left: 10vh;
+            }
+            margin-left: 8vh;
+        }
+        .tex4{
+            h6{
+                &:hover{
+color: red;
+                }
+            }
+            span{
+                margin-left: 15vh;
+            }
+            margin-left: 15vh;
+        }
+        .tex3{
+            h6{
+                &:hover{
+color: red;
+                }
+            }
+            span{
+                margin-left: 13vh;
+            }
+            margin-left: 15vh;
+        }
+    }
+
+    #siyah{
+        .siyah1{
+            margin-top: 20vh;
+        }
+        .siyah2{
+            img{
+                margin-left: 5vh;
+
+            }
+            margin-left: 5vh;
+            margin-top: -22vh;
+        }
+        .siyah3{
+            .siyah4{
+                &:hover{
+                    background: rgb(223, 223, 115);
+                }
+                width: 20vh;
+                background: rgb(221, 86, 86);
+                border: none;
+                margin-left: 0vh;
+            }
+            input{
+                background: transparent;
+                margin-top: 5vh;
+                height: 6vh;
+                width: 40vh;
+                margin-left: -15vh;
+            }
+            h4{
+                margin-top: -5vh;
+                color: white;
+            }
+            margin-top: -23vh;
+            margin-left: 45vh;
+
+          
+        }
+    }
+
+    #end{
+        .end2{
+            p{
+                &:hover{
+                    color: red;
+                    transition: .8s;
+                    cursor: pointer;
+                    transform: translateX(10px);
+                }
+            }
+            margin-left: 20vh;
+            margin-top: 25vh;
+        }
+        .end1{
+            p{
+    
+                &:hover{
+                    color: red;
+                    transition: .6s;
+                    cursor: pointer;
+                    transform: translateX(10px);
+                }
+            }
+            margin-top: 25vh;
+            margin-left: 55vh;
+            
+        }
+        .end3{
+            
+            
+            .end5{
+                width: 40vh;
+            }
+            margin-left: 135vh;
+            margin-top: -40vh;
+            .end4{
+                width: 40vh;
+            }
+        }
+        
+    }
